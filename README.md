@@ -6,7 +6,7 @@ Developed CNN Classification Model to classify Species from the Orchid Flowers d
 Dataset is available at the following link : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0HNECY
 
 ### What analysis were performed
-```Orchid_Species_Classification_Model.ipynb``` : This notebook contains the follwing  :
+```Orchid_Species_Classification_Model.ipynb``` : This notebook contains the following  :
 -  Model 1  CNN Classification Model from scratch
 -  Model 2: Used Transfer learning or fine-tuning to build the model
 
