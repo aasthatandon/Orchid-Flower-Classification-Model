@@ -17,7 +17,7 @@ We have utilized a dataset containing 7156 high-resolution images of orchid flow
 Model 1: CNN Classification Model from Scratch: We have designed and implemented a CNN architecture from scratch, which learns to extract meaningful features from orchid flower images and classify them into their respective species.
 Model 2: Transfer Learning/Fine-Tuning: Leveraging the power of transfer learning, we have explored the use of pre-trained models to enhance the classification performance. Fine-tuning a pre-trained model allows us to adapt it to the specific task of orchid species classification.
 
-#### 2.	Multi-Task Model:
+##### 2.	Multi-Task Model:
 We have developed a multi-task model that serves a dual purpose. This model predicts not only the orchid species but also the number of flowers present in an image. By using a functional API and incorporating two output layers, we aim to provide more comprehensive information about the orchid images in a single pass.
 Our project is aimed at delivering a well-structured and highly accurate orchid species classification model.
 
